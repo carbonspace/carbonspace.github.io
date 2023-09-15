@@ -1,6 +1,4 @@
-![Dwight Maskew](/assets/img/dm-massive.png)
-
-I create and enhance user interfaces and components for responsive and interactive platforms with a focus on pragmatic UI/UX design. 
+<img src="(/assets/img/dm-massive.png" alt="Dwight Lee Maskew" width="250" align="left">I create and enhance user interfaces and components for responsive and interactive platforms with a focus on pragmatic UI/UX design. 
 
 I've built upon a strong background in Graphic Design and HTML/CSS since the early 2000’s and can comfortably bridge the gap between modern design methods and efficient front-end code to develop efficient and functional applications. 
 
