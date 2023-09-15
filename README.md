@@ -1,7 +1,6 @@
-## Dwight Maskew
-### Front End Developer
+I create and enhance user interfaces and components for responsive and interactive platforms with a focus on pragmatic UI/UX design. 
 
-I create and enhance user interfaces and components for responsive and interactive platforms with a focus on pragmatic UI/UX design. Building upon a strong background in Graphic Design and HTML/CSS since the early 2000’s, I’ve learned to bridge the gap between design and front-end code to develop efficient and functional applications. 
+I've built upon a strong background in Graphic Design and HTML/CSS since the early 2000’s and can comfortably bridge the gap between modern design methods and efficient front-end code to develop efficient and functional applications. 
 
 another paragraph
 
