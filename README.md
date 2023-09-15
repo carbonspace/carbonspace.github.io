@@ -3,6 +3,8 @@
 
 I create and enhance user interfaces and components for responsive and interactive platforms with a focus on pragmatic UI/UX design. Building upon a strong background in Graphic Design and HTML/CSS since the early 2000’s, I’ve learned to bridge the gap between design and front-end code to develop efficient and functional applications. 
 
+another paragraph
+
 You can use the [editor on GitHub](https://github.com/carbonspace/carbonspace.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
