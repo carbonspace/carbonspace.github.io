@@ -1,6 +1,6 @@
 # Welcome
 
-<img src="/assets/img/dm-massive.png" alt="Dwight Lee Maskew" width="250" align="left">Thanks for stopping by. 
+<img src="/assets/img/dm-massive.png" alt="Dwight Lee Maskew" width="250" align="left">I'm Dwight. Thanks for stopping by. 
 
 I create and enhance user interfaces and components for responsive and interactive platforms with a focus on pragmatic UI/UX design. 
 
