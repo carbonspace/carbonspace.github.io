@@ -1,8 +1,22 @@
-<img src="/assets/img/dm-massive.png" alt="Dwight Lee Maskew" width="250" align="left">I create and enhance user interfaces and components for responsive and interactive platforms with a focus on pragmatic UI/UX design. 
+#Welcome
+
+<img src="/assets/img/dm-massive.png" alt="Dwight Lee Maskew" width="250" align="left">Thanks for stopping by. 
+
+I create and enhance user interfaces and components for responsive and interactive platforms with a focus on pragmatic UI/UX design. 
 
 I've built upon a strong background in Graphic Design and HTML/CSS since the early 2000’s and can comfortably bridge the gap between modern design methods and efficient front-end code to develop efficient and functional applications. 
 
-another paragraph
+## Technical Focus
+
+- User Interface Development
+- Responsive Design for Web, Mobile and Kiosk
+- HTML5, CSS3, and Javascript (ES6)
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/carbonspace/carbonspace.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
